@@ -5,21 +5,21 @@ This repository contains the artifacts for Traceback: A Fault Localization Techn
 
 ## Reference
 
-@inproceedings{10.1145/3650212.3652138,
-author = {Gerten, Michael C. and Lathrop, James I. and Cohen, Myra B.},
-title = {Traceback: A Fault Localization Technique for Molecular Programs},
-year = {2024},
-isbn = {9798400706127},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3650212.3652138},
-doi = {10.1145/3650212.3652138},
-booktitle = {Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
-pages = {415–427},
-numpages = {13},
-keywords = {chemical reaction networks, fault localization, molecular programs, software debugging},
-location = {Vienna, Austria},
-series = {ISSTA 2024}
+@inproceedings{  10.1145/3650212.3652138,   
+author = {Gerten, Michael C. and Lathrop, James I. and Cohen, Myra B.},  
+title = {Traceback: A Fault Localization Technique for Molecular Programs},  
+year = {2024},  
+isbn = {9798400706127},  
+publisher = {Association for Computing Machinery},  
+address = {New York, NY, USA},  
+url = {https://doi.org/10.1145/3650212.3652138},  
+doi = {10.1145/3650212.3652138},  
+booktitle = {Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},  
+pages = {415–427},  
+numpages = {13},  
+keywords = {chemical reaction networks, fault localization, molecular programs, software debugging},  
+location = {Vienna, Austria},  
+series = {ISSTA 2024}  
 }
 
 ## Acknowledgements
